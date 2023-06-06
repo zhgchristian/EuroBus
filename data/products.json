@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Volvo 9700",
+        "description": "Flexibility, fuel-efficiency and comfort. The Volvo 9700 is the ultimate choice for a profitable and productive coach business. With a powerful new engine and new driver's environment, it will be your driver's new favourite workplace. And your passengers will enjoy the legendary Volvo comfort and safety. Line-haul or charter, maybe both? The Volvo 9700 is simply ready, for whatever comes ahead.",
+        "price": 760000,
+        "stock": 571,
+        "imgUrl": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/2326x800-volvo-9700-CGI?qlt=82&wid=1440&ts=1656563752972&dpr=off&fit=constrain",
+        "categoryId": 2,
+        "authorId": 1,
+        "status":"Active"
+    },
+    {
+        "id": 2,
+        "name": "Volvo 9900",
+        "description": "The Volvo 9900 with its elegance and attitude is a premium experience for everyone: drivers, passengers and owners. A powerful new engine and new driver's environment make every mile behind the wheel an amazing experience. Passengers will enjoy the luxurious comfort and safety. And operators will appreciate the outstanding fuel-efficiency, uptime and reliability. It's a truly premium coach, ready for whatever comes ahead.",
+        "price": 899000,
+        "stock": 209,
+        "imgUrl": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/2326x800-volvo-9900-CGI-1?qlt=82&wid=1440&ts=1656563978460&dpr=off&fit=constrain",
+        "categoryId": 2,
+        "authorId": 1,
+        "status":"Active"
+    },
+    {
+        "id": 3,
+        "name": "Volvo 7900 S-Charge",
+        "description": "The Volvo 7900 S-Charge is a smart and connected full-hybrid. It can run solely on electricity for many parts of the route, and it extends the benefits of electromobility to busy suburban operation outside the city centre. Available as both two-axle and articulated, the Volvo 7900 S-Charge adds completely new possibilities by being part-time electric – offering full-time service. The Volvo 7900 S-Charge will help the Zero City grow.",
+        "price": 1200000,
+        "stock": 5,
+        "imgUrl": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/2326x800-volvo-7900-S-Charge-studio-image?qlt=82&wid=1440&ts=1648453593037&dpr=off&fit=constrain",
+        "categoryId": 3,
+        "authorId": 1,
+        "status":"Active"
+    },
+    {
+        "id": 4,
+        "name": "Volvo 8900",
+        "description": "The Volvo 8900 will meet all needs in intercity and commuting operations. Highly versatile through a wide range of variants, yet firmly focused on reducing operating costs. Our right-sized Euro 6 engine provides excellent performance and driveability, with low fuel consumption. Count on maximum uptime, reliability and safety for your investment.",
+        "price": 629000,
+        "stock": 7,
+        "imgUrl": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/1860x1050-8900-Gallery3-2016-bre?wid=1440&fit=constrain",
+        "categoryId": 4,
+        "authorId": 2,
+        "status":"Active"
+    },
+    {
+        "id": 5,
+        "name": "Volvo 9700DD",
+        "description": "The Volvo 9700 Double Decker is a premium experience for everyone: drivers, passengers and owners. It's an extremely flexible double decker that offers impressive capacity and possibilities for different kinds of operations. It comes with a powerful new and highly fuel-efficient engine and a new driver's environment. And legendary comfort and safety for your passengers. It's ready, for whatever comes ahead.",
+        "price": 1099000,
+        "stock": 19,
+        "imgUrl": "https://assets.volvo.com/is/image/VolvoInformationTechnologyAB/Volvo-9700DD-Build-your-coach-2326x800?qlt=82&wid=1440&ts=1656563846292&dpr=off&fit=constrain",
+        "categoryId": 1,
+        "authorId": 2,
+        "status":"Active"
+    }
+
+]

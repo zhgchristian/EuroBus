@@ -1,0 +1,29 @@
+[
+    {
+        "username":"JohnMiracle",
+        "email":"johnm12@eurobus.com",
+        "password":"12345",
+        "role":"admin",
+        "phoneNumber":"080989999",
+        "address":"North Mongolian, dirt road section 1, Mongolia"
+
+    },
+    {
+        "username":"HowardFriedman",
+        "email":"hfriedman@eurobus.com",
+        "password":"12345",
+        "role":"staff",
+        "phoneNumber":"01020304",
+        "address":"North Siberian, snowpile section 7, Russia"
+
+    },
+    {
+        "username":"ChoiNam",
+        "email":"choinam@eurobus.com",
+        "password":"12345",
+        "role":"admin",
+        "phoneNumber":"01020304",
+        "address":"North Siberian, snowpile section 7, Russia"
+
+    }
+]
